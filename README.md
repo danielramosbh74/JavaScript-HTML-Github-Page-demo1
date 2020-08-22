@@ -1,10 +1,8 @@
 # Demonstration 1
 
-The JavaScript file is called from the respective HTML file:
+The JavaScript file is called from the respective HTML file and it's running here on Github Pages using Jekyll Cayman theme
 
-https://danielramosbh74.github.io/1-javascript-code-snippets/demo1/form-with-if-then-else-1.html
+https://danielramosbh74.github.io/JavaScript-and-ci-workflow-demo1/
 
-
-But I intend to adapt the JavaScript file to run it as a equivalent Node module (and maybe some views with or without another Node module)
 
 
