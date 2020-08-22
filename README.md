@@ -4,5 +4,5 @@ The JavaScript file is called from the respective HTML file and it's running her
 
 https://danielramosbh74.github.io/JavaScript-and-ci-workflow-demo1/
 
-
+I'm using Github Actions also to make an automated workflow for any changes.
 
