@@ -2,7 +2,5 @@
 
 The JavaScript file is called from the respective HTML file and it's running here on Github Pages using Jekyll Cayman theme
 
-https://danielramosbh74.github.io/JavaScript-and-ci-workflow-demo1/
-
-I'm using Github Actions also to make an automated workflow for any changes.
+https://danielramosbh74.github.io/JavaScript-HTML-Github-Page-demo1/
 
