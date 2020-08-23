@@ -2,5 +2,5 @@
 
 The JavaScript file is called from the respective HTML file and it's running here on Github Pages using Jekyll Cayman theme
 
-https://danielramosbh74.github.io/JavaScript-HTML-Github-Page-demo1/
+https://danielramosbh74.github.io/javascript-react-published-on-github-pages-demo-1/
 
